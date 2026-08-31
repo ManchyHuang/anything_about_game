@@ -52,7 +52,7 @@ Table of Contents
     - [CG Software API](#cg-software-api)
     - [Visual-Logic](#visual-logic)
     - [Tile](#tile)
-    - [Design](#design)
+- [Design](#design)
 - [locale](#locale)
 - [Texture](#texture)
     - [PIX-Texture](#pix-texture)
@@ -143,16 +143,16 @@ Table of Contents
     - [Rust](#rust-2)
     - [Web/Http/Server/Client](#webhttpserverclient)
 - [GameEngine Design](#gameengine-design)
-    - [Collection](#collection-4)
-    - [Article/Course](#articlecourse)
-    - [GUI](#gui)
-    - [2D Engines and Frameworks](#2d-engines-and-frameworks)
-    - [3D Engines and Frameworks](#3d-engines-and-frameworks)
-    - [Skinned-MeshRender](#skinned-meshrender)
+  - [Collection](#collection-4)
+  - [Article/Course](#articlecourse)
+  - [GUI](#gui)
+  - [2D Engines and Frameworks](#2d-engines-and-frameworks)
+  - [3D Engines and Frameworks](#3d-engines-and-frameworks)
+- [Skinned-MeshRender](#skinned-meshrender)
 - [Creative Code](#creative-code)
 - [并发执行和多线程](#并发执行和多线程)
-    - [CPP](#cpp)
-    - [C](#c-3)
+  - [CPP](#cpp)
+  - [C](#c-3)
 - [Game-Math](#game-math)
     - [Math-Tool](#math-tool)
     - [Curve](#curve)
@@ -380,6 +380,7 @@ Table of Contents
 - [写作](#写作)
 - [web-server](#web-server)
 - [OCR](#ocr)
+- [Code-Editor](#code-editor)
 - [游戏策划](#游戏策划)
     - [镜头设计](#镜头设计)
 - [Windows-Optimizer](#windows-optimizer)
@@ -1912,6 +1913,7 @@ Table of Contents
 * [AnimeStudio](https://github.com/Escartem/AnimeStudio) Updated AssetStudio, supports GI 5.6+, HSR 3.3+, ZZZ 2.0+, with improvements and new features (*ﾟ∀ﾟ*)
 * [ST3GG](https://github.com/elder-plinius/ST3GG) 水印
 #### Archive-Format
+- https://github.com/masonschafercodes/zpack
 - https://github.com/bilibili/UnityBVA
 - https://github.com/EpicGames/lore
 - https://github.com/emperorofmars/stf-unity
@@ -2505,6 +2507,7 @@ UnityEngineIL2CPPUtilityClass only for 2022.2~2022.3
 
 
 ## DataBase
+- https://github.com/nuskey8/lkv lkv is a lightweight and fast embedded database implemented in Rust
 - https://github.com/dolthub/dolt
 - https://github.com/ClockworkLabs/SpacetimeDB
 - https://github.com/strosz/com.northernrogue.cccp.spacetimedbserver
@@ -4589,7 +4592,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/b0nes164/ShaderOneSweep 
 - https://github.com/b0nes164/SimpleComputeShaderHashTable 
 - https://github.com/naelstrof/UnityPenetrationTech A gpu-based deformation system for mapping penetrators along orifice paths.
-
+- https://jax-ml.github.io/scaling-book/gpus/
 #### Boids
 * [Boids](https://github.com/Shinao/Unity-GPU-Boids) c# gpu
 * [Boids](https://github.com/Unity-Technologies/EntityComponentSystemSamples/tree/master/EntitiesSamples/Boids) EntityComponentSystemSamples Boids
@@ -5587,6 +5590,7 @@ Showing off the power of shader properties in Unity
 - https://github.com/Shaun-Fong/UIToolkit-FieldBinding
 - https://github.com/sinanata/unity-ui-document-design-system
 - https://www.zoboui.com/
+- https://assetstore.unity.com/packages/tools/gui/autolayout-pro-for-ugui-379350
 - https://assetstore.unity.com/packages/tools/gui/flexbox-4-unity-139571 unity ugui layout system
 - https://github.com/TonkersTinkers/TonkersTableTopia
 - https://assetstore.unity.com/packages/tools/gui/flexbuilder-2023-flexbox-css-3-ui-245345
